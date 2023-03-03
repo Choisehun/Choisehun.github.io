@@ -12,6 +12,7 @@ permalink: pretty
 gh_sponsor: chrisrhymes
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
+theme: bulma-clean-theme
 #fixed_navbar: top
 #direction: one of <ltr, rtl, auto>, default: ltr
 
